@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:finance_tracker/pages/splash_screen.dart';
-import 'package:finance_tracker/pages/onboarding_page.dart';
-import 'package:finance_tracker/pages/main_page.dart';
+import 'package:money_tracker/pages/splash_screen.dart';
+import 'package:money_tracker/pages/onboarding_page.dart';
+import 'package:money_tracker/pages/main_page.dart';
 // Impor halaman baru
-import 'package:finance_tracker/pages/get_started_page.dart';
+import 'package:money_tracker/pages/get_started_page.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:finance_tracker/pages/home_page.dart';
-import 'package:finance_tracker/pages/history_page.dart';
-import 'package:finance_tracker/utils/colors.dart';
-import 'package:finance_tracker/widgets/add_transaction_modal.dart';
-import 'package:finance_tracker/models/transaction_model.dart';
+import 'package:money_tracker/pages/home_page.dart';
+import 'package:money_tracker/pages/history_page.dart';
+import 'package:money_tracker/utils/colors.dart';
+import 'package:money_tracker/widgets/add_transaction_modal.dart';
+import 'package:money_tracker/models/transaction_model.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
 

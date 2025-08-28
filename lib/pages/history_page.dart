@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:intl/intl.dart';
-import 'package:finance_tracker/models/transaction_model.dart';
-import 'package:finance_tracker/utils/colors.dart';
+import 'package:money_tracker/models/transaction_model.dart';
+import 'package:money_tracker/utils/colors.dart';
 
 class HistoryPage extends StatelessWidget {
   final List<Transaction> transactions;

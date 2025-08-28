@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:finance_tracker/utils/colors.dart';
+import 'package:money_tracker/utils/colors.dart';
 
 class GetStartedPage extends StatelessWidget {
   const GetStartedPage({super.key});

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:intl/intl.dart';
-import 'package:finance_tracker/utils/colors.dart';
+import 'package:money_tracker/utils/colors.dart';
 
 class OnboardingPage extends StatefulWidget {
   const OnboardingPage({super.key});

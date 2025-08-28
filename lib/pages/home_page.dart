@@ -4,8 +4,8 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:intl/intl.dart';
 import 'package:fl_chart/fl_chart.dart';
-import 'package:finance_tracker/utils/colors.dart';
-import 'package:finance_tracker/models/transaction_model.dart';
+import 'package:money_tracker/utils/colors.dart';
+import 'package:money_tracker/models/transaction_model.dart';
 
 class HomePage extends StatefulWidget {
   final List<Transaction> transactions;
